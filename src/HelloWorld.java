@@ -7,7 +7,7 @@ public class HelloWorld {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		System.out.println("±ê Ã³À½ ÇØºÁ¿ä~!");
+		System.out.println("ê¹ƒ ì²˜ìŒí•´ë´ìš”");
 	}
 
 }
